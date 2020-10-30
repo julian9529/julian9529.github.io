@@ -1,5 +1,4 @@
 ---
-title: "My awesome website"
 output: 
   html_document:
     toc: true
@@ -10,3 +9,12 @@ output:
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here is a subsection 
+Let's link to useful tools for data science: 
+
+* [google](https://www.google.com/)
+
+## Local Image
+
+![](images/xolo.jpg)
